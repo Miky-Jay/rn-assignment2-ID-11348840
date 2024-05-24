@@ -8,4 +8,4 @@ The text component displays "My name is Mikaela-Jessie Agboyitor".
 The font size of the text is set to 24.
 The name "Mikaela-Jessie Agboyitor" is displayed in bold.
 
-![alt text](<../../202 screenshot.jpg>)
+![alt text](<202 screenshot.jpg>)
